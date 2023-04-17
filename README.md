@@ -17,3 +17,18 @@ docker-compose up
 6. Levantar: yarn start:dev
 //https://github.com/Klerith/nest-teslo-shop/tree/fin-seccion-10
 
+
+//Documentacion 
+//https://github.com/Klerith/nest-teslo-shop/tree/fin-seccion-14
+
+Paquetes:
+yarn add @nestjs/config         
+yarn add @nestjs/typeorm typeorm
+yarn add class-validator class-transformer
+yarn add -D @types/uuid  
+yarn add -D @types/multer
+yarn add bcrypt 
+yarn add @nestjs/jwt
+yarn add @nestjs/passport 
+yarn add @nestjs/passport passport
+yarn add passport-jwt
