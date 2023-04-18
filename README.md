@@ -32,3 +32,12 @@ yarn add @nestjs/jwt
 yarn add @nestjs/passport 
 yarn add @nestjs/passport passport
 yarn add passport-jwt
+
+
+--- 
+sockets
+yarn add @nestjs/websockets @nestjs/platform-socket.io
+yarn add socket.io
+
+deploy a la nube de heroku
+https://github.com/Klerith/nest-teslo-shop/tree/fin-seccion-16
